@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: GiveNow.com.au Shortcodes
+Plugin Name: wp-givenow-stats
 Plugin URI: http://www.chrissamios.com/
 Description: Show your current raised amount and/or the thermometer gauge from your GiveNow.com.au campaign. Use shortcodes in combination with the name of your page id on givenow.com.au. E.g. if your givenow link is http://www.givenow.com.au/abc123, the page id to use is abc123. So your shortcodes would be [givenow page="abc123"] for the gauge and the raised amount, or if you just want the amount or the gauge you can use [givenow-raised page="abc123"] or [givenow-gauge page="abc123"]
 
