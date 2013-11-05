@@ -25,4 +25,15 @@ To show the thermometer with the raised amount underneath, both are links to the
   
 I offer no support and take no responsibility for anything this plugin may do, use it at your own risk.   
   
-/Seriously though, it's like 10 lines of code wrapped in a plugin generator, so if it did anything I would be really surprised./
+Seriously though, it's like 10 lines of code wrapped in a plugin generator, so if it did anything I would be really surprised.
+
+
+** Installation
+Download the zip file of this master branch: https://github.com/kythin/wp-givenow-stats/archive/master.zip
+  
+Use the plugin uploader in wordpress to install it. Activate it. Then use any combination of the shortcodes above.
+  
+If you want it to work inside a widget, I suggest you find a plugin that makes shortcodes work inside widget text fields.
+
+
+Tested and working in wordpress 3.6+ and 3.7+
