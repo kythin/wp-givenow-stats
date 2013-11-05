@@ -28,7 +28,8 @@ I offer no support and take no responsibility for anything this plugin may do, u
 Seriously though, it's like 10 lines of code wrapped in a plugin generator, so if it did anything I would be really surprised.
 
 
-** Installation
+Installation  
+----
 Download the zip file of this master branch: https://github.com/kythin/wp-givenow-stats/archive/master.zip
   
 Use the plugin uploader in wordpress to install it. Activate it. Then use any combination of the shortcodes above.
