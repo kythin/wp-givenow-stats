@@ -1,0 +1,18 @@
+/**
+* GiveNow.com.au campaign status fetcher.
+*
+* @author http://www.github.com/kythin
+*
+*/
+
+.givenow {
+    display:block; padding:10px; text-align: center;
+}
+
+.givenow .raised {
+    font-size: 16px; font-weight: bold;
+}
+
+.givenow .gauge{
+    text-align: center;
+}
