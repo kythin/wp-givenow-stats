@@ -4,12 +4,12 @@ Plugin Name: GiveNow.com.au Shortcodes
 Plugin URI: http://www.chrissamios.com/
 Description: Show your current raised amount and/or the thermometer gauge from your GiveNow.com.au campaign. Use shortcodes in combination with the name of your page id on givenow.com.au. E.g. if your givenow link is http://www.givenow.com.au/abc123, the page id to use is abc123. So your shortcodes would be [givenow page="abc123"] for the gauge and the raised amount, or if you just want the amount or the gauge you can use [givenow-raised page="abc123"] or [givenow-gauge page="abc123"]
 
-Version: 0.1
-Author: Chris Samios
-Author Email: chris@chaostamed.com.au
+Version: 1.0
+Author: http://www.github.com/kythin
+Author Email: kythin@gmail.com
 License:
 
-  Copyright 2013 Chris Samios (chris@chaostamed.com.au)
+  Copyright 2013 Chris Samios (kythin@gmail.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as 
